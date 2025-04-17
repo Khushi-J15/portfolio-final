@@ -48,9 +48,10 @@
        <a href="https://drive.google.com/file/d/1j43dBeTAdNV9zxlqN37QUv4liHW9Z5Zn/view?usp=sharing" class="download-btn">Download CV</a>
         
         -->
-        <a href="#" class="download-btn" id="downloadLink">Download CV</a>
-
-      
+        <a href="Resume2.pdf" target="_blank" class="download-btn">
+          Download CV
+        </a>
+        
     </div>
 
     <div class="profession-container">
@@ -277,14 +278,5 @@
   <!-- swiper js -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
   <script src="js/script.js"></script>
-  <script>
-    document.getElementById('downloadLink').addEventListener('click', function(e) {
-    e.preventDefault();
-    const link = document.createElement('a');
-    link.href = 'Resume2.pdf';
-    link.download = 'Khushi_Jain_CV.pdf';  // Ensure correct filename here
-    link.click();
-    });
-  </script>
 </body>
 </html>
