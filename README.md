@@ -1,5 +1,5 @@
 ## Portfolio Website
-### This is a personal portfolio website designed to showcase professional experience, skills, projects, and contact information. It is built using HTML, CSS, and JavaScript, and deployed via GitHub Pages.
+### This is a personal portfolio website designed to showcase professional experience, skills, projects, and contact information.
 
 Live URL: https://khushi-j15.github.io/portfolio-final/
 
@@ -22,7 +22,7 @@ CSS3
 Bootstrap
 JavaScript (Vanilla)
 
-Getting Started - To view the website locally:
+## To view the website locally:
 
 1 Clone the repository: git clone https://github.com/khushi-j15/portfolio-final.git
 
