@@ -1,7 +1,11 @@
+![Screenshot (79)](https://github.com/user-attachments/assets/c44d81c7-ea5f-47de-aaab-74665bc9ec97)
+
 ## Portfolio Website
 ### This is a personal portfolio website designed to showcase professional experience, skills, projects, and contact information.
 
 Live URL: https://khushi-j15.github.io/portfolio-final/
+
+
 
 ## Features
 Responsive layout compatible with desktops, tablets, and mobile devices
